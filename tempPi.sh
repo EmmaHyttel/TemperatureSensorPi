@@ -1,0 +1,1 @@
+python /home/temppi/SeasonalStory/Program.py
